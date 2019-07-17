@@ -1,2 +1,6 @@
 # food-app
-Online foo d delivery app
+Online food delivery app
+
+Android Version
+Java Version
+aadkals
